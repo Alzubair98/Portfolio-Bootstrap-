@@ -1,7 +1,7 @@
-Project Name
-Portfolio skeleton
+#Project Name
+Portfolio with bootstrap
 
-Description the project. the second project with the microverse , bulding the portfoilo skelton
+Description the project. the fourth project with the microverse , bulding the portfoilo with bootstrap
 
 Built With
 Major languages
